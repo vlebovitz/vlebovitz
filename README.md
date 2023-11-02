@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlebovitz
 - I’m interested in Data Science and the application of AI/ML systems 
-- I’m currently studying Computational Engineering at the University of Texas in Austin (Hook EM!)
+- Graduated with a  Bachelor's degree in Computational Engineering from the University of Texas in Austin (Hook EM!)
 - I’m looking to collaborate on projects where I am challenged to think critically, and solve large scale issues
 - 📫 You can reach me at my email vlebovitz@utexas.edu
 
