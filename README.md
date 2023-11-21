@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vlebovitz
+- 👋 Hi, I’m Vincent or @vlebovitz
 - I’m interested in Data Science and the application of AI/ML systems at scale
 - Graduated with a  Bachelor's degree in Computational Engineering from the University of Texas in Austin (Hook EM!)
 - Currently working at JPMorgan in NYC where I focus on delivering firmwide AI/ML solutions and strategic initiatives to data scientists
